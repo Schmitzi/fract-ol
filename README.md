@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="img/fract-oln.png"/>
+    <img src="img/fract-olm.png"/>
 </p>
 
 <h1 align="center">
