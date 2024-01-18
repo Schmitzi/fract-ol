@@ -1,4 +1,15 @@
-# Fractol
+<p align="center">
+    <img src="img/fract-oln.png"/>
+</p>
+
+<h1 align="center">
+   fract-ol
+</h1>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/language-%20C-blue" />
+    <img src="https://img.shields.io/badge/120%2F100-green" />
+</p>
 
 ## Description
 `Fractol` is a graphical project at 42 that involves exploring and rendering various fractals. The program allows users to interactively navigate and zoom into fractal sets, providing a visually captivating experience.
